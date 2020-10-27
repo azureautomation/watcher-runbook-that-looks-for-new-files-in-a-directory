@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 2464,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/watcher-runbook-that-looks-for-new-files-in-a-directory/master/Watch-NewFile.ps1",
+    "DownloadCount": 3986,
+    "Id": "Watcher-runbook-that-looks-36fc82cd",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 132,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2017-11-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Watcher runbook that looks for new files in a directory and triggers an action runbook to process the files. This is a sample to show how to create and use watcher tasks in an Automation account.It\u00a0requires\u00a0that\u00a0a\u00a0variable\u00a0called\u00a0\"Watch-NewFileTimestamp\"\u00a0be\u00a0created\u00a0first.",
+    "Title": "Watcher runbook that looks for new files in a directory",
+    "UpdatedDate": "2017-12-14T00:00:00",
+    "Url": "https://github.com/azureautomation/watcher-runbook-that-looks-for-new-files-in-a-directory",
+    "UserTags": "Runbook, Automation Watcher"
+}
